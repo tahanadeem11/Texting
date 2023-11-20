@@ -8,7 +8,7 @@ class AuthenticationScreen extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.deepPurple,
         centerTitle: true,
-        title: Text('Authentication'),
+        title: Text('Wheat Disease Detection'),
       ),
       body: Padding(
         padding: EdgeInsets.all(16.0),
